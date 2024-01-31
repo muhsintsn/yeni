@@ -1,3 +1,4 @@
 deneme
 import pandas as pandas
-#pandas klendi
+#pandas eklendi
+import seaborn as sns
